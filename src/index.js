@@ -2,7 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 const App = () => {
-  return <div>Hi there!</div>
+  return(
+    <div className="ui container comments">
+  
+    </div>
+  )
 }
 
 ReactDOM.render(<App />, document.querySelector('#root'));
