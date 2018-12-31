@@ -20,7 +20,7 @@ const App = () => {
         <CommentDetail
         author = 'Sam'
         timeAgo = 'Today at 5:30pm'
-        content = 'Hola, i had not read sumething so sweet in a while'
+        content = 'Hola, i had not read something so sweet in a while'
         avatar = {faker.image.avatar()}
         />
       </ApprovalCard>
